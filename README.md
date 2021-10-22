@@ -32,8 +32,20 @@ Tải về điện thoại các ứng dụng và file sau:
 
 <img alt='Use' src='https://user-images.githubusercontent.com/12897718/138462923-4fe51cf5-36ff-46a9-93ae-aeae5ce1e91a.JPEG' width='200px'/>
 
-## Video hướng dẫn
+## Video hướng dẫn cài đặt
 [![Video](https://img.youtube.com/vi/5vj3uvgKwTg/0.jpg)](https://www.youtube.com/watch?v=5vj3uvgKwTg)
+
+## Hướng dẫn sử dụng
+
+Kiểu gõ telex. Gõ dấu mũ ngay sau nguyên âm hoặc phụ âm đó. Gõ dấu thanh ở cuối chữ.
+
+VD: đường = dduwowngf.
+
+Khi gỡ từ phức ko cần gõ dấu cách giữa các chữ
+
+VD: việt nam = vieetjnam.
+
+Chọn chữ trên thanh gợi ý hoặc gõ phím cách để chọn chữ đầu tiên.
 
 ## Nguồn
 [Trime IME](https://github.com/osfans/trime)
