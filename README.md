@@ -41,7 +41,7 @@ Kiểu gõ telex. Gõ dấu mũ ngay sau nguyên âm hoặc phụ âm đó. Gõ 
 
 VD: đường = dduwowngf.
 
-Khi gỡ từ phức ko cần gõ dấu cách giữa các chữ
+Khi gõ từ phức ko cần gõ dấu cách giữa các chữ
 
 VD: việt nam = vieetjnam.
 
