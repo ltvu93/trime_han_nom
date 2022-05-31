@@ -7,6 +7,8 @@ Tải về điện thoại các ứng dụng và file sau:
 - hannomPS.dict.yaml
 - hannomPS.schema.yaml
 - trime.custom.yaml
+
+Nếu muốn xài data nôm chuẩn mới thì tải ở đây [newhamnom](https://www.asuswebstorage.com/navigate/a/?fbclid=IwAR34Sf_qE0kOLCRJSln-YytfiQxCLufNDhwXR8FGS1FEkPbiAINj0x4CJKI#/s/4188FA6CCDF04CA2B46AEDBE06CA9381Y)
 ## Cài Đặt
 1. Dùng File Manager đi tới nơi chứa 3 file setting Hán Nôm trên. (Ở đây file được tải về root/sdcard/Download) 
 
@@ -20,17 +22,21 @@ Tải về điện thoại các ứng dụng và file sau:
 
 <img alt='Deploy' src='https://user-images.githubusercontent.com/12897718/138462585-390ea0aa-6979-4ce8-971e-65130a052a6b.JPEG' width='200px'/>
 
-4. Reset lại default.yaml trong Input Schemas.
+4. Reset lại default.yaml trong Input/Reset.
 
 <img alt='Reset default' src='https://user-images.githubusercontent.com/12897718/138463838-5f34fd60-243f-4693-9dda-bae56869085e.JPEG' width='200px'/>
 
-5. Chọn 輸入法𡨸漢喃 trong phần Input Schemas của trime. (Bỏ chọn những cái khác)
+5. Chọn 輸入法𡨸漢喃 hoặc 輸入法𡨸漢喃㵋 (với data newhamnom) trong phần Input/Schemas của trime. (Bỏ chọn những cái khác)
 
 <img alt='Select Input Schemas ' src='https://user-images.githubusercontent.com/12897718/138462762-5810eb28-0bcc-42d9-a527-b1769ad5511a.JPEG' width='200px'/>
+
+<img alt='Select Input Schemas newhamnom' src='https://user-images.githubusercontent.com/12897718/171160491-693e96d2-b8a9-4145-b216-84f11d9a2093.JPEG' width='200px'/>sss
 
 6. Chuyển bàn phím sang Trime để sử dụng.
 
 <img alt='Use' src='https://user-images.githubusercontent.com/12897718/138462923-4fe51cf5-36ff-46a9-93ae-aeae5ce1e91a.JPEG' width='200px'/>
+
+<img alt='Use newhamnom' src='https://user-images.githubusercontent.com/12897718/171160696-383e5526-ab38-457e-a91f-948aa2e7d422.JPEG' width='200px'/>
 
 ## Video hướng dẫn cài đặt
 [![Video](https://img.youtube.com/vi/5vj3uvgKwTg/0.jpg)](https://www.youtube.com/watch?v=5vj3uvgKwTg)
